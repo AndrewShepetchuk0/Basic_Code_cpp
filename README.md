@@ -1,2 +1,2 @@
 # Basic_Code_cpp
-Basic cpp code
+Basic cpp(c++) code compiled with g++
