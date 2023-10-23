@@ -29,7 +29,7 @@ int main()
 			std::cout << fnum / snum << std::endl;
 			break;
 		default:
-			std::cout << "Not a valid operation" << std::endl;
+			std::cout << "Not a valid operation. Only addition, subtraction, multiplication, and division operations are supported" << std::endl;
 	}
 	return 0;
 }
