@@ -9,7 +9,8 @@ int main()
 	//Price input and variable allocation
 	std::cout << "Input price: " << std::endl;
 	std::cin >> price;
-	
+
+	//calculates and displays price after HST
 	std::cout << "The price after HST is: ";
 	std::cout << price * hst << std::endl; 
 
