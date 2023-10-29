@@ -19,6 +19,11 @@ int main()
       std::cout << "Buzz ";
       std::cout << i << std::endl;
       }
+      if(i % 7 == 0)
+      {
+      std::cout << "Fuzz ";
+      std::cout << i << std::endl;
+      }
       //The default option, just printing the number
       else
       {
