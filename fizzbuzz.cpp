@@ -7,10 +7,10 @@ int main()
     std::cout << i << std::endl;
     switch(i)
     {
-      case 3:
+      case(i % 3 == 0):
       std::cout << "Fizz ";
       std::cout << i << std::endl;
-      case 5:
+      case(i % 5 == 0):
       std::cout << "Buzz ";
       std::cout << i << std::endl;
       default:
