@@ -13,6 +13,7 @@ int main()
       std::cout << "Fizz ";
       std::cout << i << std::endl;
       }
+      //detects if a number is divisible by 5 and prints fizz in addition to the number
       if(i % 5 == 0)
       {
       std::cout << "Buzz ";
