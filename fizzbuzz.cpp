@@ -7,6 +7,7 @@ int main()
   //for loop which prints numbers from 0 to 100
   for(int i=0; i<=100; i++)
   {
+      //detects if a number is divisible by 3 and prints fizz in addition to the number
       if(i % 3 == 0)
       {
       std::cout << "Fizz ";
