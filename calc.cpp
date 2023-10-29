@@ -4,6 +4,7 @@
 //Main
 int main()
 {
+	//Creates variable for first number, second number, and operation
 	float fnum = NULL, snum = NULL;
 	char op = NULL;
 
