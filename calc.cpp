@@ -38,6 +38,7 @@ int main()
 		case('/'):
 			std::cout << fnum / snum << std::endl;
 			break;
+		//Prints an error message if the operation is not one of the four above listed
 		default:
 			std::cout << "Not a valid operation. Only addition, subtraction, multiplication, and division operations are supported" << std::endl;
 	}
