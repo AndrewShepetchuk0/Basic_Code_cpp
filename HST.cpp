@@ -1,6 +1,7 @@
 #include <iostream>
 //includes
 
+//main 
 int main()
 {
 	//Makes variables for HST and price
