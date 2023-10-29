@@ -34,6 +34,7 @@ int main()
 		case('*'):
 			std::cout << fnum * snum << std::endl;
 			break;
+		//Division operation
 		case('/'):
 			std::cout << fnum / snum << std::endl;
 			break;
