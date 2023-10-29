@@ -2,7 +2,7 @@
 
 int main()
 {
-  for(i =0; i <= 100; i++)
+  for(i=0; i<=100; i++)
   {
     std::cout << i << std::endl;
     switch(i)
@@ -14,7 +14,7 @@ int main()
       std::cout << "Buzz ";
       std::cout << i << std::endl;
       default:
-      std::cout << i << endl;
+      std::cout << i << std::endl;
     }
   }
   return 0;
