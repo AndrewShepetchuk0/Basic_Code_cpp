@@ -19,7 +19,7 @@ int main()
       std::cout << "Buzz ";
       std::cout << i << std::endl;
       }
-      //detects if a number is divisible by 7 and prints fuzz in addition to the number
+      //detects if a number is divisible by 7 and prints fuzz in addition to the number. Made as an additional condition to the original fizz-buzz
       if(i % 7 == 0)
       {
       std::cout << "Fuzz ";
