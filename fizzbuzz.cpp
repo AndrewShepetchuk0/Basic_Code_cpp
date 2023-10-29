@@ -19,6 +19,7 @@ int main()
       std::cout << "Buzz ";
       std::cout << i << std::endl;
       }
+      //The default option, just printing the number
       else
       {
       std::cout << i << std::endl;
