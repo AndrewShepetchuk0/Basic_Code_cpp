@@ -30,6 +30,7 @@ int main()
 		case('-'):
 			std::cout << fnum - snum << std::endl;
 			break;
+		//Multiplication operation
 		case('*'):
 			std::cout << fnum * snum << std::endl;
 			break;
