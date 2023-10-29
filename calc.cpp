@@ -8,6 +8,7 @@ int main()
 	float fnum = NULL, snum = NULL;
 	char op = NULL;
 
+	//User input for first number, operation, and second number
 	std::cout << "Input the first number: " << std::endl;
 	std::cin >> fnum;
 	std::cout << "Input operation: " << std::endl;
