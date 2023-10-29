@@ -26,6 +26,7 @@ int main()
 		case('+'):
 			std::cout << fnum + snum << std::endl;
 			break;
+		//Subtraction operation
 		case('-'):
 			std::cout << fnum - snum << std::endl;
 			break;
