@@ -5,6 +5,7 @@ int main()
 {
 	//Makes variables for HST and price
 	float hst = 1.13, price = NULL;
+	//Price input and variable allocation
 	std::cout << "Input price: " << std::endl;
 	std::cin >> price;
 	
