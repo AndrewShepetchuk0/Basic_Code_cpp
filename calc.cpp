@@ -19,6 +19,7 @@ int main()
 	//prints result
 	std::cout << "The result is: ";
 
+	//Creates switch statement for operations
 	switch(op)
 	{
 		case('+'):
