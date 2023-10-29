@@ -15,7 +15,8 @@ int main()
 	std::cin >> op;
 	std::cout << "Input the second number: " << std::endl;
 	std::cin >> snum;
-	
+
+	//prints result
 	std::cout << "The result is: ";
 
 	switch(op)
