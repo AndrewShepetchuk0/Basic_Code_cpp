@@ -19,6 +19,7 @@ int main()
       std::cout << "Buzz ";
       std::cout << i << std::endl;
       }
+      //detects if a number is divisible by 5 and prints fuzz in addition to the number
       if(i % 7 == 0)
       {
       std::cout << "Fuzz ";
