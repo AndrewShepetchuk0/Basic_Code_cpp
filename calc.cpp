@@ -22,6 +22,7 @@ int main()
 	//Creates switch statement for operations
 	switch(op)
 	{
+		//Addition operation
 		case('+'):
 			std::cout << fnum + snum << std::endl;
 			break;
